@@ -1,0 +1,133 @@
+php
+php stands for php hypertext pre processor 
+php is an open source language
+php is a server site scripting language
+we can use following packages for developing php applications like xampp wamp lamp mamp 
+
+1. XAMPP  X stands for cross platform, A stands for apache web server, M stands for MySql database server, P stands for php and last P stands for pearl
+2. WAMP W stands for windows, A stands for apache web server, M stands for MySql database server, P stands for php.
+3. LAMP L stands for linux, A stands for apache web server, M stands for MySql database server, P stands for php.
+4. MAMP M stands for Mac, A stands for apache web server, M stands for MySql database server, P stands for php.
+
+How to create php program.
+1. install xampp
+2. open xampp control panel
+3. start apache web server and MySql server.  
+4.c:/xampp/htdocs  create a new folder here of any name and save file in that folder with .php extention.
+
+
+
+starting php syntex:
+
+<?php
+code
+code
+?>
+
+program1.
+
+<?php
+echo "Hello PHP";
+print "hi world";
+?>
+
+output Hello PHP
+to run a file open browser 
+type localhost/<foldername>
+then click on a file you want to run then output window will popup
+
+echo accept multiple parameter and print accept single parameter.
+
+
+q. how to define variable in php:-
+ans <?php
+echo "Hello PHP";
+print "hi world";
+$a=10;
+$b=40;
+
+echo "<br/><input type='text'>Addtion =",$a+$b;
+
+?>
+
+
+
+file question 1. write a php program to print a hello world?
+file question 2. write a php program to perform all arithmetic operations (addtion, subtraction, multiplication, division, modulas)?
+Ans.
+<?php
+$a=10;
+$b=40;
+
+echo "<br/><input type='text'>Addtion =",$a+$b;
+echo "<br/><input type='text'>Subtraction =",$a-$b;
+echo "<br/><input type='text'>Multiplication =",$a*$b;
+echo "<br/><input type='text'>Division =",$a/$b;
+echo "<br/><input type='text'>Modulas =",$a%$b;
+?>
+file question3. write a php program to print DOB dropdown list using for loop?
+
+
+program2. greatest between two
+<?php
+echo '<br/>$a';
+
+if ($a>$b)
+     echo "$a is greatest";
+else
+     echo "$b is greatest";
+?>
+
+
+
+program3. gratest between 3
+<?php
+$a=10;
+$b=30;
+$c=2;
+
+if($a>$b)
+    if($a>$c)
+        echo "$a is greatest";
+    else	
+       echo "$c is greatest";
+   else if ($b>$c)
+      echo "$b is greatest";
+?>
+
+program4. print 1 to 10
+<?php
+for($i=1;$i<=10;$i++)
+    echo "<br/><input type='text'>,$i";
+?>
+
+program5. dropdown list for month date year
+<?php
+echo "<select>";
+echo "<option>Date</option>";
+  for($i=1;$i<=31;$i++)
+    echo "<option value='$i'>$i</option>";
+
+echo "<select>";
+echo "<option>month</option>";
+  for($i=1;$i<=12;$i++)
+    echo "<option value='$i'>$i</option>";
+
+
+echo "<select>";
+echo "<option>Year</option>";
+  for($i=1990;$i<=2021;$i++)
+    echo "<option value='$i'>$i</option>";
+
+?>
+
+program6. print 1 to 10 in a text box
+program7. $name
+$pass
+$gender
+$name1
+$pass1
+$gender1
+
+
+print these variables into tabular forms

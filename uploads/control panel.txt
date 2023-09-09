@@ -1,0 +1,59 @@
+1.The Control Panel is a component of Microsoft Windows that provides the ability to view and change system settings. It consists of a set of applets that include adding or removing hardware and software, controlling user accounts, changing accessibility options, and accessing networking settings. Additional applets are provided by third parties, such as audio and video drivers, VPN tools, input devices, and networking tools.
+
+2.Control Panel is the centralized configuration area in Windows. It's used to make changes to nearly every aspect of the operating system.
+
+This includes keyboard and mouse function, passwords and users, network settings, power management, desktop backgrounds, sounds, hardware, program installation and removal, speech recognition, parental control, etc.
+
+Think of Control Panel as the place to go in Windows if you want to change something about how it looks or works.
+
+3.Here are a few of the thousands of individual changes that are possible from within Control Panel:
+
+Change Your Password
+Change Another User's Password
+Change AutoPlay Settings
+Create a Password for Your Account
+Adjust the Date and Time
+Remove Your Password
+Setup Windows Backup
+Start Device Manager
+Change Internet Explorer Settings
+Configure Regional and Language Settings
+Configure Text to Speech and Speech Recognition Settings
+Install Windows Updates
+Change Network Settings
+Adjust Color Quality
+Adjust Screen Resolution
+Change Your Monitor's Refresh Rate
+Adjust Keyboard and Mouse Settings
+See the Windows Service Pack You Have Installed
+Create a Password Reset Disk
+Change Background, Screensaver, and Windows Sounds Settings
+Show Hidden Files
+Add a Printer
+Configure the Start Menu and Taskbar
+Configure Windows Firewall Settings
+Hide Hidden Files
+Change Your Product Key
+Manage Windows Gadgets
+See If You're Running a 32-bit or 64-bit Version of Windows
+Change the Default Program for a File Extension
+Disable Error Reporting
+Reinstall a Program
+
+
+Click This Category Link . . .		. . . To Display These Groups of Links
+System and Security			Action Center, Windows Firewall, System, Windows Update, Power
+				Options, Backup and Restore, BitLocker Drive Encryption, and
+				Administrative Tools
+User Accounts			User Accounts, Windows Cardspace, Credential Manager, and Mail
+				(32-bit)
+Network and Internet			Network and Sharing Center, Homegroup, and Internet
+				Options
+Appearance and Personalization		Personalization, Display, Desktop Gadgets, Taskbar and Start
+				Menu, Ease of Access Center, Folder Options, and Fonts
+Hardware and Sound			Devices and Printers, AutoPlay, Sound, Power Options, Display,
+				and Windows Mobility Center
+Clock, Language, and Region		Date and Time, and Region and Language
+Programs				Programs and Features, Default Programs, and Desktop
+				Gadgets
+Ease of Access			Ease of Access Center and Speech Recognition

@@ -1,0 +1,55 @@
+JDBC Connectvity(Java Database Connectivity)
+
+
+Java Database Connectivity
+
+ODBC
+
+Java Program->JDBC Driver->Database Connection
+
+-----------------------------------------------------------------
+SOFTWARE
+
+Java IDE(NetBeans)
+
+XAMPP(Mysql Database)
+
+We Can Create Simple Form.......
+----------------------------------------------
+Name  TextField
+
+Age  TextField
+
+City   TextField
+
+Submit button
+------------------------------------------------
+
+
+
+1)Form Design
+
+2)Database Create
+	i)Xampp Installation
+	ii)Xampp Control Panel Me Se(Mysql,Apach Ko Start Karna Hai)
+	iii)open The Browser  Enter Url(localhost/phpmyadmin)
+	iv)Create The Database
+	v)Create table into the Database
+	
+
+3)Database  Connectivity ka Code
+
+1)Loading The Driver
+
+2)Intialize the connection Variable
+
+3)Intialize the statement Variable
+
+4)Execute The Query
+
+5)Fetch The Data
+
+
+
+
+
