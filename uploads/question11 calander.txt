@@ -1,2 +1,0 @@
-using calander class write a program to print calander of a month.
-regorian calander class or gregorian
